@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajaypatil528
-- 👀 I’m interested in ...software development..!!
-- 🌱 I’m currently learning ...Java Full Stack Development with Spring Boot and Microservices..!!
-- 💞️ I’m looking to collaborate on ...same what I am learning..!!
+- 👀 I’m interested in ...software development..AWS Cloud!!
+- 🌱 I’m interested in ...Java Full Stack Development with Spring Boot and Microservices..and Anguler!!
+- 💞️ I’m looking to collaborate on ...same what I am interested in..!!
 - 📫 How to reach me ...via mail patilajay858@gmail.com 
 
 <!---
